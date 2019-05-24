@@ -62,7 +62,7 @@ command.scalinghealth.setWorldDifficulty=将这个世界的难度设置为 %s.
 # Misc #
 ########
 
-misc.scalinghealth.sleepWarning=[Scaling Health] 警告:睡觉会改变你的难度!
+misc.scalinghealth.sleepWarning=[Scaling Health]警告:睡觉会改变你的难度!
 misc.scalinghealth.difficultyMeterText=困难
 
 
